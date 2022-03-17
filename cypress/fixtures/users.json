@@ -1,0 +1,32 @@
+[
+    {
+        "userName": "debnl1",
+        "email": "deb@deb1.com",
+        "password": "123456789"
+    },
+    
+    {
+        "userName": "debnl2",
+        "email": "deb@deb2.com",
+        "password": "123456789"
+    },
+
+    {
+        "userName": "debnl3",
+        "email": "deb@deb3.com",
+        "password": "123456789"
+    },
+
+    {
+        "userName": "debnl4",
+        "email": "deb@deb4.com",
+        "password": "123456789"
+    },
+
+    {
+        "userName": "debnl5",
+        "email": "deb@deb5.com",
+        "password": "12345678"
+    }
+    
+]
