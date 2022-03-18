@@ -4,7 +4,7 @@ describe('user login', () =>{
     
     }) 
 
-    it('verify email already used message', () => {
+    it('register user', () => {
             
         cy.contains('a', 'Login / Criar').click();
         cy.contains('a', 'Cadastro').click();
